@@ -1,6 +1,6 @@
-# Encryption Toolkit
+# bruce-crypto
 
-Encryption Toolkit 是一个用于在 Node.js 应用中进行简单加密和解密操作的工具库。
+bruce-crypto 是一个用于在 Node.js 应用中进行简单加密和解密操作的工具库。
 
 ## 安装
 
