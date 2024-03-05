@@ -1,0 +1,20 @@
+{
+  "name": "bruce-crypto",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ynb9870701/bruce-crypto.git"
+  },
+  "author": "picasso",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "chris_cryptojs_encrypto_decrypto": "^1.0.0",
+    "crypto": "^1.0.1"
+  }
+}
